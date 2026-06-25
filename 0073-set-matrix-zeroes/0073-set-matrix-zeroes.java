@@ -24,6 +24,10 @@ class Solution {
                 matrix[i][col]=0;
             }
         }
-        
+        int[][] copy = new int[matrix.length][];
+        for (int i = 0; i < matrix.length; i++) {
+            copy[i] = new int[matrix[i].length];
+            System.arraycopy(matrix[i], 0, copy[i], 0, matrix[i].length);
+        }
     }
 }
