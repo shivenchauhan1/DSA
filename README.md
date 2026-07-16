@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivenchauhan1/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivenchauhan1/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shivenchauhan1/DSA/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shivenchauhan1/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
