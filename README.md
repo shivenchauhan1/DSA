@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shivenchauhan1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivenchauhan1/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/shivenchauhan1/DSA/tree/master/0682-baseball-game) |
@@ -149,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shivenchauhan1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivenchauhan1/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/shivenchauhan1/DSA/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/shivenchauhan1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivenchauhan1/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/shivenchauhan1/DSA/tree/master/0622-design-circular-queue) |
 ## Bit Manipulation
