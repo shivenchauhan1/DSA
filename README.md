@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shivenchauhan1/DSA/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivenchauhan1/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shivenchauhan1/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivenchauhan1/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -145,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/shivenchauhan1/DSA/tree/master/0622-design-circular-queue) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shivenchauhan1/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shivenchauhan1/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
