@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/shivenchauhan1/DSA/tree/master/0622-design-circular-queue) |
+| [0682-baseball-game](https://github.com/shivenchauhan1/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shivenchauhan1/DSA/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivenchauhan1/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivenchauhan1/DSA/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/shivenchauhan1/DSA/tree/master/0682-baseball-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivenchauhan1/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/shivenchauhan1/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shivenchauhan1/DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
