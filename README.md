@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/shivenchauhan1/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivenchauhan1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/shivenchauhan1/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/shivenchauhan1/DSA/tree/master/0054-spiral-matrix) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shivenchauhan1/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivenchauhan1/DSA/tree/master/0151-reverse-words-in-a-string) |
