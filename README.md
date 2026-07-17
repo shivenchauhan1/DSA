@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/shivenchauhan1/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/shivenchauhan1/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/shivenchauhan1/DSA/tree/master/0682-baseball-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shivenchauhan1/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivenchauhan1/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivenchauhan1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shivenchauhan1/DSA/tree/master/0242-valid-anagram) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shivenchauhan1/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivenchauhan1/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
