@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/shivenchauhan1/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shivenchauhan1/DSA/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivenchauhan1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivenchauhan1/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivenchauhan1/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -184,11 +185,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivenchauhan1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivenchauhan1/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivenchauhan1/DSA/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivenchauhan1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
 | ------- |
