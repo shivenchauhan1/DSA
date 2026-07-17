@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/shivenchauhan1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivenchauhan1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0088-merge-sorted-array) |
+| [0216-combination-sum-iii](https://github.com/shivenchauhan1/DSA/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/shivenchauhan1/DSA/tree/master/0622-design-circular-queue) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0216-combination-sum-iii](https://github.com/shivenchauhan1/DSA/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivenchauhan1/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Binary Search
 |  |
