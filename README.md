@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/shivenchauhan1/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivenchauhan1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shivenchauhan1/DSA/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/shivenchauhan1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/shivenchauhan1/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0409-longest-palindrome) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivenchauhan1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shivenchauhan1/DSA/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shivenchauhan1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/shivenchauhan1/DSA/tree/master/0242-valid-anagram) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivenchauhan1/DSA/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/shivenchauhan1/DSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shivenchauhan1/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shivenchauhan1/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivenchauhan1/DSA/tree/master/0258-add-digits) |
