@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0088-merge-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/shivenchauhan1/DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivenchauhan1/DSA/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivenchauhan1/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shivenchauhan1/DSA/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/shivenchauhan1/DSA/tree/master/0611-valid-triangle-number) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivenchauhan1/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivenchauhan1/DSA/tree/master/0053-maximum-subarray) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivenchauhan1/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/shivenchauhan1/DSA/tree/master/0611-valid-triangle-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivenchauhan1/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
