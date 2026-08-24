@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shivenchauhan1/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivenchauhan1/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivenchauhan1/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/shivenchauhan1/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/shivenchauhan1/DSA/tree/master/0541-reverse-string-ii) |
+| [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivenchauhan1/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shivenchauhan1/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivenchauhan1/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/shivenchauhan1/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/shivenchauhan1/DSA/tree/master/0611-valid-triangle-number) |
+| [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shivenchauhan1/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shivenchauhan1/DSA/tree/master/0239-sliding-window-maximum) |
+| [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivenchauhan1/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -260,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/shivenchauhan1/DSA/tree/master/0611-valid-triangle-number) |
+| [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivenchauhan1/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
