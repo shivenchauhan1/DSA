@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivenchauhan1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/shivenchauhan1/DSA/tree/master/0134-gas-station) |
+| [0204-count-primes](https://github.com/shivenchauhan1/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shivenchauhan1/DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivenchauhan1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/shivenchauhan1/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/shivenchauhan1/DSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/shivenchauhan1/DSA/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/shivenchauhan1/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shivenchauhan1/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivenchauhan1/DSA/tree/master/0258-add-digits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivenchauhan1/DSA/tree/master/0357-count-numbers-with-unique-digits) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shivenchauhan1/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shivenchauhan1/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivenchauhan1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivenchauhan1/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -270,9 +273,22 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shivenchauhan1/DSA/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivenchauhan1/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shivenchauhan1/DSA/tree/master/0486-predict-the-winner) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivenchauhan1/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivenchauhan1/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivenchauhan1/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
