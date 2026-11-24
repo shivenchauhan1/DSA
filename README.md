@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivenchauhan1/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
 |  |
@@ -291,4 +292,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivenchauhan1/DSA/tree/master/0204-count-primes) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
