@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivenchauhan1/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivenchauhan1/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
 |  |
@@ -298,18 +299,29 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivenchauhan1/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivenchauhan1/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivenchauhan1/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
