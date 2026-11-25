@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivenchauhan1/DSA/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/shivenchauhan1/DSA/tree/master/0743-network-delay-time) |
@@ -367,4 +368,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shivenchauhan1/DSA/tree/master/0743-network-delay-time) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
