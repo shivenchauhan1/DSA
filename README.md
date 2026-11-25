@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/shivenchauhan1/DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivenchauhan1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivenchauhan1/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/shivenchauhan1/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/shivenchauhan1/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivenchauhan1/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/shivenchauhan1/DSA/tree/master/0611-valid-triangle-number) |
 | [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/shivenchauhan1/DSA/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivenchauhan1/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/shivenchauhan1/DSA/tree/master/0611-valid-triangle-number) |
 | [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivenchauhan1/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
