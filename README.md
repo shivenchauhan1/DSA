@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivenchauhan1/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/shivenchauhan1/DSA/tree/master/0134-gas-station) |
+| [0164-maximum-gap](https://github.com/shivenchauhan1/DSA/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/shivenchauhan1/DSA/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shivenchauhan1/DSA/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/shivenchauhan1/DSA/tree/master/0239-sliding-window-maximum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/shivenchauhan1/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/shivenchauhan1/DSA/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/shivenchauhan1/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivenchauhan1/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -131,10 +133,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shivenchauhan1/DSA/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shivenchauhan1/DSA/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
@@ -407,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivenchauhan1/DSA/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shivenchauhan1/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
