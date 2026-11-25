@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/shivenchauhan1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/shivenchauhan1/DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivenchauhan1/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0357-count-numbers-with-unique-digits](https://github.com/shivenchauhan1/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/shivenchauhan1/DSA/tree/master/0486-predict-the-winner) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivenchauhan1/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivenchauhan1/DSA/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/shivenchauhan1/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivenchauhan1/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivenchauhan1/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivenchauhan1/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivenchauhan1/DSA/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/shivenchauhan1/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivenchauhan1/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivenchauhan1/DSA/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/shivenchauhan1/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivenchauhan1/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -357,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shivenchauhan1/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/shivenchauhan1/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
