@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/shivenchauhan1/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shivenchauhan1/DSA/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/shivenchauhan1/DSA/tree/master/0611-valid-triangle-number) |
 | [0767-reorganize-string](https://github.com/shivenchauhan1/DSA/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivenchauhan1/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/shivenchauhan1/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivenchauhan1/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -374,16 +377,19 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivenchauhan1/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivenchauhan1/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shivenchauhan1/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/shivenchauhan1/DSA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
