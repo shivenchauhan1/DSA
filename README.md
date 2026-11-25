@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/shivenchauhan1/DSA/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/shivenchauhan1/DSA/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivenchauhan1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivenchauhan1/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivenchauhan1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivenchauhan1/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivenchauhan1/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivenchauhan1/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivenchauhan1/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/shivenchauhan1/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivenchauhan1/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivenchauhan1/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivenchauhan1/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
 |  |
@@ -330,4 +333,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/shivenchauhan1/DSA/tree/master/0802-find-eventual-safe-states) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivenchauhan1/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivenchauhan1/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivenchauhan1/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivenchauhan1/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
