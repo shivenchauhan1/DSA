@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivenchauhan1/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/shivenchauhan1/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shivenchauhan1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shivenchauhan1/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/shivenchauhan1/DSA/tree/master/0611-valid-triangle-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/shivenchauhan1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivenchauhan1/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shivenchauhan1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shivenchauhan1/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/shivenchauhan1/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivenchauhan1/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shivenchauhan1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/shivenchauhan1/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivenchauhan1/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Number Theory
