@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/shivenchauhan1/DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivenchauhan1/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/shivenchauhan1/DSA/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/shivenchauhan1/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shivenchauhan1/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shivenchauhan1/DSA/tree/master/0055-jump-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shivenchauhan1/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/shivenchauhan1/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shivenchauhan1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivenchauhan1/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/shivenchauhan1/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivenchauhan1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shivenchauhan1/DSA/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/shivenchauhan1/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/shivenchauhan1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/shivenchauhan1/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shivenchauhan1/DSA/tree/master/0409-longest-palindrome) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shivenchauhan1/DSA/tree/master/0037-sudoku-solver) |
 | [0216-combination-sum-iii](https://github.com/shivenchauhan1/DSA/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivenchauhan1/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Binary Search
@@ -427,4 +431,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shivenchauhan1/DSA/tree/master/0164-maximum-gap) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shivenchauhan1/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/shivenchauhan1/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
