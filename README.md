@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/shivenchauhan1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shivenchauhan1/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0473-matchsticks-to-square](https://github.com/shivenchauhan1/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/shivenchauhan1/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/shivenchauhan1/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shivenchauhan1/DSA/tree/master/0503-next-greater-element-ii) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/shivenchauhan1/DSA/tree/master/0055-jump-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivenchauhan1/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/shivenchauhan1/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/shivenchauhan1/DSA/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/shivenchauhan1/DSA/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivenchauhan1/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivenchauhan1/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/shivenchauhan1/DSA/tree/master/0037-sudoku-solver) |
 | [0216-combination-sum-iii](https://github.com/shivenchauhan1/DSA/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/shivenchauhan1/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/shivenchauhan1/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivenchauhan1/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Binary Search
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivenchauhan1/DSA/tree/master/0231-power-of-two) |
+| [0473-matchsticks-to-square](https://github.com/shivenchauhan1/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivenchauhan1/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Recursion
 |  |
@@ -450,5 +454,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/shivenchauhan1/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivenchauhan1/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
