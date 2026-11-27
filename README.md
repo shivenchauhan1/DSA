@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shivenchauhan1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivenchauhan1/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/shivenchauhan1/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/shivenchauhan1/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/shivenchauhan1/DSA/tree/master/1947-maximum-compatibility-score-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivenchauhan1/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivenchauhan1/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivenchauhan1/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivenchauhan1/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/shivenchauhan1/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/shivenchauhan1/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/shivenchauhan1/DSA/tree/master/1947-maximum-compatibility-score-sum) |
 ## Backtracking
 |  |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/shivenchauhan1/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivenchauhan1/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/shivenchauhan1/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/shivenchauhan1/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/shivenchauhan1/DSA/tree/master/1947-maximum-compatibility-score-sum) |
 ## Recursion
 |  |
@@ -465,18 +468,22 @@ A collection of LeetCode questions to ace the coding interview!
 | [0473-matchsticks-to-square](https://github.com/shivenchauhan1/DSA/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivenchauhan1/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/shivenchauhan1/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/shivenchauhan1/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/shivenchauhan1/DSA/tree/master/1947-maximum-compatibility-score-sum) |
 ## Hungarian Algorithm
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/shivenchauhan1/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/shivenchauhan1/DSA/tree/master/1947-maximum-compatibility-score-sum) |
 ## Bipartite Graph
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/shivenchauhan1/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/shivenchauhan1/DSA/tree/master/1947-maximum-compatibility-score-sum) |
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
+| [1879-minimum-xor-sum-of-two-arrays](https://github.com/shivenchauhan1/DSA/tree/master/1879-minimum-xor-sum-of-two-arrays) |
 | [1947-maximum-compatibility-score-sum](https://github.com/shivenchauhan1/DSA/tree/master/1947-maximum-compatibility-score-sum) |
 ## Matching (Graph)
 |  |
